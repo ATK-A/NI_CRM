@@ -1,0 +1,7 @@
+These are all of the Matlab scripts required to recreate the figures from Kennedy-Asser et al. 2025. "The role of local knowledge in enhancing climate change risk assessments in rural Northern Ireland" https://doi.org/10.1016/j.crm.2025.100702
+
+There will be additional data files required (raw data as well as pre-processed data for quickly running scripts). These will be found on the Open Science Framework: https://osf.io/weksh/ (DOI 10.17605/OSF.IO/WEKSH).
+
+Chances are there will be some challenges mapping the scripts to each other when running these on a new machine. For questions or advice, please contact alan.kennedy@bristol.ac.uk.
+
+v.1. 27/03/25
